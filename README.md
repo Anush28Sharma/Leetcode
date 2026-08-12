@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Anush28Sharma/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anush28Sharma/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Anush28Sharma/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [2965-find-missing-and-repeated-values](https://github.com/Anush28Sharma/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anush28Sharma/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Anush28Sharma/Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Anush28Sharma/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [2965-find-missing-and-repeated-values](https://github.com/Anush28Sharma/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -63,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Anush28Sharma/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/Anush28Sharma/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Anush28Sharma/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Anush28Sharma/Leetcode/tree/master/0200-number-of-islands) |
+| [2965-find-missing-and-repeated-values](https://github.com/Anush28Sharma/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
 | ------- |
