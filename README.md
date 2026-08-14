@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Anush28Sharma/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Anush28Sharma/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Anush28Sharma/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Anush28Sharma/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anush28Sharma/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anush28Sharma/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Anush28Sharma/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Anush28Sharma/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Anush28Sharma/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Anush28Sharma/Leetcode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Anush28Sharma/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Anush28Sharma/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anush28Sharma/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Anush28Sharma/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Anush28Sharma/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Anush28Sharma/Leetcode/tree/master/0200-number-of-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/Anush28Sharma/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Anush28Sharma/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Anush28Sharma/Leetcode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anush28Sharma/Leetcode/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Anush28Sharma/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
