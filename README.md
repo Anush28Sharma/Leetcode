@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anush28Sharma/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anush28Sharma/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Anush28Sharma/Leetcode/tree/master/0200-number-of-islands) |
+| [0287-find-the-duplicate-number](https://github.com/Anush28Sharma/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Anush28Sharma/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Anush28Sharma/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Anush28Sharma/Leetcode/tree/master/0525-contiguous-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Anush28Sharma/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Anush28Sharma/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anush28Sharma/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Anush28Sharma/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anush28Sharma/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anush28Sharma/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anush28Sharma/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Anush28Sharma/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Anush28Sharma/Leetcode/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anush28Sharma/Leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anush28Sharma/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -185,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Anush28Sharma/Leetcode/tree/master/0079-word-search) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anush28Sharma/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anush28Sharma/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
