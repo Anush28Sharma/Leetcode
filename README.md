@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anush28Sharma/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anush28Sharma/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anush28Sharma/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Anush28Sharma/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anush28Sharma/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Anush28Sharma/Leetcode/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/Anush28Sharma/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Anush28Sharma/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Anush28Sharma/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Anush28Sharma/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
