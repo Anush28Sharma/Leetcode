@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anush28Sharma/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anush28Sharma/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anush28Sharma/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Anush28Sharma/Leetcode/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anush28Sharma/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Anush28Sharma/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anush28Sharma/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Anush28Sharma/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Anush28Sharma/Leetcode/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
