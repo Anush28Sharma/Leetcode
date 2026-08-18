@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Anush28Sharma/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Anush28Sharma/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Anush28Sharma/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Anush28Sharma/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Anush28Sharma/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Anush28Sharma/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Anush28Sharma/Leetcode/tree/master/0075-sort-colors) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Anush28Sharma/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Anush28Sharma/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Anush28Sharma/Leetcode/tree/master/0079-word-search) |
 ## Pigeonhole Principle
 |  |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anush28Sharma/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Anush28Sharma/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
