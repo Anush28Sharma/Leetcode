@@ -152,12 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Anush28Sharma/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Anush28Sharma/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Anush28Sharma/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Anush28Sharma/Leetcode/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anush28Sharma/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anush28Sharma/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Anush28Sharma/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Anush28Sharma/Leetcode/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Anush28Sharma/Leetcode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Anush28Sharma/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/Anush28Sharma/Leetcode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Anush28Sharma/Leetcode/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Anush28Sharma/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
