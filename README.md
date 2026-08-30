@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Anush28Sharma/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anush28Sharma/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Anush28Sharma/Leetcode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anush28Sharma/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Anush28Sharma/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Anush28Sharma/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Anush28Sharma/Leetcode/tree/master/0136-single-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anush28Sharma/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anush28Sharma/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
