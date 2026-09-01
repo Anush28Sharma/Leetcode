@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anush28Sharma/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Anush28Sharma/Leetcode/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/Anush28Sharma/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Anush28Sharma/Leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Anush28Sharma/Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Anush28Sharma/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Anush28Sharma/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anush28Sharma/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anush28Sharma/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anush28Sharma/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/Anush28Sharma/Leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Anush28Sharma/Leetcode/tree/master/0494-target-sum) |
 ## Stack
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Anush28Sharma/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anush28Sharma/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Anush28Sharma/Leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Anush28Sharma/Leetcode/tree/master/0322-coin-change) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anush28Sharma/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anush28Sharma/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Anush28Sharma/Leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -382,9 +385,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Anush28Sharma/Leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Anush28Sharma/Leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Anush28Sharma/Leetcode/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Anush28Sharma/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
