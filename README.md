@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anush28Sharma/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Anush28Sharma/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Anush28Sharma/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Anush28Sharma/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Anush28Sharma/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anush28Sharma/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Anush28Sharma/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anush28Sharma/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anush28Sharma/Leetcode/tree/master/0018-4sum) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anush28Sharma/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Anush28Sharma/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anush28Sharma/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anush28Sharma/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -429,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anush28Sharma/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anush28Sharma/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
